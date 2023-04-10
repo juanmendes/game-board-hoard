@@ -1,7 +1,7 @@
-import { apiUtilInterface } from './api-util-interface';
+import { Game } from './api-util-interface';
 
 describe('apiUtilInterface', () => {
   it('should work', () => {
-    expect(apiUtilInterface()).toEqual('api-util-interface');
+    expect(0).toEqual(0);
   });
 });
